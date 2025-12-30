@@ -15,3 +15,16 @@ The notebook includes:
 - Discussion of rewards vs steps
 
 📓 Open the notebook to see full explanations and results.
+
+## 📦 Dependencies
+
+The project uses the following Python libraries:
+
+- Python ≥ 3.9
+- numpy
+- matplotlib
+- seaborn
+- gymnasium
+- IPython
+
+
